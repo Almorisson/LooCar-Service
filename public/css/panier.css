@@ -1,0 +1,72 @@
+
+/**
+ * Created by PhpStorm.
+ * User: morisson
+ * Date: 21/11/2018
+ * Time: 16:02
+ */
+
+
+.tableau{
+    background-image:url("https://www.flemarie.fr/blog/wp-content/uploads/2014/05/cuir-1.jpg");
+    width: 60%;
+    height: 200px;
+    margin-left: 5%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 140%;
+    background-image: url("http://ap.imagensbrasil.org/images/elegant-grey-illumination-background-presentations-powerpoint-backgrounds_low1.md.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 18px;
+    float: left;
+}
+.lavoiture{
+    width: 300px;
+    height: 150px;
+    border-radius: 5px;
+}
+.leproduit{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.ligne{
+    background-color: #FFFFFF;
+    size: 10px;
+    float:left;
+    margin-left: 3%;
+    width: 95%;
+    height: 2px;
+}
+span{
+    margin-left: 9%;
+}
+.lepanier{
+    border-top: 1px solid #FFFFFF;
+}
+.paiement{
+    float: right;
+    width: 30%;
+    height: 250px;
+    margin-right: 2%;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 140%;
+    /*background-image: url("https://workbench-ent.com/wp-content/uploads/2018/05/videoblocks-gray-abstract-low-poly-triangle-background_sygowhrug_thumbnail-full01.png");*/
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.paiement2{
+    background-color: grey;
+    width: 30%;
+    height: 140px;
+    margin-top: 44%;
+    margin: auto ;
+}
+
+.leboutton {
+    margin: 20px auto;
+}

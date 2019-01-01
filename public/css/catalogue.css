@@ -1,0 +1,50 @@
+/*html{
+    background-image:url("https://www.audi.fr/dam/nemo/models/a4/rs-4-avant/my-2018/1920x1080-media-text-combi-XL/1920x1080_11_MediaTextCombi_XL_ARS4_171001.jpg");
+}*/
+
+a.bouton{
+    padding: 7px 30px;
+    color: black;
+    background: rgba(255,255,255,0);
+    border-radius: 3px;
+    border: 1px solid white;
+    text-decoration:none;
+    transition: background 0.20s;
+}
+a.bouton:hover {
+    background: rgba(255,255,255,0);
+    color: #EAECEE;
+    border: 2px solid #EAECEE;
+    transition: background 0.0s;
+}
+
+#img-produit{
+    margin-left:12%;
+    margin-top:25px;
+    width:200px;
+    height:100px;
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 10px;
+    border: 1px solid black;
+    transform: scale(1);
+    transition: .6s ease-in-out;
+}
+#img-produit:hover{
+    filter: saturate(250%);
+    transform: scale(1.3);
+}
+
+
+.produit {
+    background-image:url("http://www.audi.it/content/dam/nemo/models/a3/rs-3-sportback/my-2017/563x317-editorial-teaser/563x317_ARS3_161006.jpg");
+    width:260px;
+    height:260px;
+    margin-left:6%;
+    margin-right:40px;
+    margin-bottom: 5%;
+    margin-top:13px;
+    float:left;
+    text-align:center;
+    border: 1px solid black;
+}
