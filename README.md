@@ -1,15 +1,15 @@
 # Website Name
 LooCar-Service
 
-# Description
+## Description
 A website site allowing each user who desires it to lend a car for a determined duration. 
 
-# You can freely pulled, modify and improve my project at your convenience. However, don't forgot to mentionned his owner(who I am) if you decided to publish it with a different name or to commercialize it after your proper improvements.
+### You can freely pull, modify and improve my project at your convenience. However, don't forget to mention his owner(who I am) if you decided to publish it with a different name or to commercialize it after making your own improvements.
 
-# User's guide
+## User's guide
 This website is build with Laravel 5 framemork. For this reason, it's based on the MVC architecture like the most part of websites around the world. 
 
-1) First, pull the project by using the following git command : git clone https://github.com/Almorisson/LooCar-Service
+1) First, pull the project by using the following git command : *git clone https://github.com/Almorisson/LooCar-Service*
 2) If don't have a local web server, i invite you to install a preconfigured web server depending to ypur OS :
     a) Install WampServer if you're in Windows
     b) MAMP or XAMPP if you're in MacOSX
